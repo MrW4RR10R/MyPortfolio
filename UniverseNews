@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="with=device-with initial-scale= 1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+
+    <title>UNIVERSE</title>
+
+      <style>
+
+        h1{
+            color:blueviolet ;
+        }
+        h2{
+            color: rgb(0, 0, 121);
+        }
+        h3{
+            color: rgb(143, 2, 110);
+        }
+        body{
+            color: rgb(0, 0, 0);
+            background-color: rgb(77, 159, 166);
+        }
+
+      </style>
+
+</head>
+
+<body>
+    
+    <h1 id="top">My Universe</h1>
+    <h2>Il tutto e il niente!</h2>
+    
+    <img src="https://img.freepik.com/premium-photo/space-nebula-3d-illustration-use-with-projects-science-research-education_250994-2401.jpg?w=700" alt="img.freepik.com" title="nebula-space">
+    <iframe width="700" height="396" align="right" src="https://www.youtube.com/embed/8yggEAfcvYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
+    <hr><hr>
+    
+    <p>Questa è la <strong><em>R.S.T.C.</em></strong>, ovvero <strong><em>RIVISTA SCIENTIFICA TECNOLOGICA CULTURALE,</em></strong> l' acronimo è da rivedere CIT. <a href="https://it.wikipedia.org/wiki/Phil_Coulson" title="Agente SHIELD Phil. Coulson"> "Philiph J. Coulson"</a> Marvel, 
+        ma più che una semplice rivista è un luogo in cui gli utenti possono discutere di idee, 
+        teorie ma anche solo di curiosità riguardante:<br></p>
+    
+    <ul>
+        <li><strong>Scienze</strong></li>
+        <li><strong>Storia</strong></li>
+        <li><strong>Tecnologia</strong></li>
+        <li><strong>Società</strong></li>
+        <li><strong>Film</strong></li>
+        <li><strong>Videogiochi</strong></li>
+    </ul>
+   
+    <p>
+        Un grande solotto alla Bing Bang Theory in cui tutti sono liberi di esprimere
+         la propria opinione e condividere le prorpie esperienze o quelle di terzi.
+    </p>
+
+    <hr><hr>
+
+     <h3>SAPIENS: da uomini a dei.</h3>
+        
+    <p>Non dimentichiamo che tra i fattori che hanno favorito il <a href="https://it.wikipedia.org/wiki/Evoluzione_umana#:~:text=Gli%20esseri%20umani%20moderni%20hanno,neanderthalensis%20in%20Europa." title="Evoluzione degli Hominina">processo
+        <img style="float: left; padding: 10px;" src="https://img.freepik.com/free-vector/human-workers-evolution-silhouettes_23-2147741036.jpg?1&w=740&t=st=1680009939~exp=1680010539~hmac=9ddc70fe28de048bb033f1c3560f73db7b6d6dd052dd7d85e96f826b56f13f7d "
+         width="900" height="400" alt="img.freepik.com" title="human-workers-evolution">
+        evolutivo</a> <br> dell'uomo ci sono: la curiosità e la capacità si socializzare e cooperare. Il mio <br> intento è 
+        quello di partire prorpio da questo nostro fondamentale aspetto per poter portare avanti uno dei proggetti iniziato
+        dalla natura ancor prima della nostra nascita:<br> <strong><em>L' EVOLUZIONE.</em></strong>    
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/GMEZz7s_Evc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+        <hr><hr>
+
+        <p>Ci sono diversi luoghi in cui è possibile accedere e, inoltre, l'accesso ad uno non esclude l'altro:</p>
+
+        <table>
+            <thead>
+                <tr>
+                    <th><strong>SALOTTO</strong></th>                              
+                    <th><strong>INTERESSE</strong></th>
+                    <th>INGRESSO</th>
+                    <th>USCITA</th>                    
+                </tr>
+            </thead>
+
+            <tbody>
+
+                <tr>
+                    <td><em>Sheld</em></td>
+                    <td><em>Scientifico</em></td>
+                    <th>//</th>
+                    <th>//</th>   
+                </tr>
+
+                <tr>
+                    <td><em>LEON</em></td>
+                    <td><em>Videogame</em></td>
+                    <th>//</th>
+                    <th>//</th>
+                </tr>
+
+                <tr>
+                    <td>Wollow</td>
+                    <td><em>Tecnologia</em></td>
+                    <th>//</th>
+                    <th>//</th>                    
+                </tr>
+
+                <tr>
+                    <td><em>Penn</em></td>
+                    <td><em>Società</em></om></td>
+                    <th>//</th>
+                    <th>//</th>
+                </tr>
+
+                <tr>
+                    <td>Contra</td>
+                    <td>Ricerca/Sviluppo</td>
+                    <th>//</th>
+                    <th>//</th>
+                </tr>
+
+            </tbody>
+
+        </table>
+
+        <p>Con questa piccola introduzione vi saluto e vi do il benvenuto nel <br>
+            <strong>MY UNIVERSE.</strong></p>
+            <p> <a href="#top">Back to top</a></p>
+
+        <hr><hr>
+
+        
+        <p>P.S. per Hidran: so che per la descrizione delle tabelle non va il tag &#60th&gt ma il tag &#60td&gt; l'ho messo perchè dal punto di vista visivo 
+            appare più ordinato, altrimenti gli slash erano troppo vincini al resto delle parole.</p>
+    
+</body>
+
+</html>
